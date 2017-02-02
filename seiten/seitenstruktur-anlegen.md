@@ -14,7 +14,7 @@ Wir legen es so an, damit die vorher festgelegte Seitenstruktur ebenfalls in Wor
 
 Startseite bekommt immer die 0 \(bitte hierbei später auf SEO Einstellungen achten\)
 
-Jede weitere Seite wird anschließend mit aufsteigenden 10er Schritten angelegt. Gibt es z.B. ein Team wird im Attribut "Reihenfolge" der Seite wird die 10 eingetragen. Gibt es eine weitere Seite z.B. Produkte wird bei der Reihenfolge eine 20 eingetragen usw.
+Jede weitere Seite wird anschließend mit aufsteigenden 10er Schritten angelegt. Gibt es z.B. eine Seite Team wird im Attribut "Reihenfolge" der Seite wird die 10 eingetragen. Gibt es eine weitere Seite z.B. Produkte wird bei der Reihenfolge eine 20 eingetragen usw.
 
 Seiten die man später -sehr wahrscheinlich- nur selten einstellen muss, legen wir direkt mit einer sehr hohen Nummer an.
 
@@ -26,7 +26,7 @@ Seiten die man später -sehr wahrscheinlich- nur selten einstellen muss, legen w
 
 ## Das Attribut "Eltern"
 
-Durch das Attribut "Eltern" lassen sich Unterseiten erstellen. Im Attribut Eltern kann festgelegt werden, zu welcher Hauptkategorie eine Seite gehört. Man kann beliebig viel Unterebenen erstellen, es sollten aber nicht mehr als maximal drei Unterebenen geben. 
+Durch das Attribut "Eltern" lassen sich Unterseiten erstellen. Im Attribut Eltern kann festgelegt werden, zu welcher Hauptkategorie eine Seite gehört. Man kann beliebig viel Unterebenen erstellen, es sollten aber nicht mehr als maximal drei Unterebenen geben.
 
 Man wählt einfach die übergeordnete Kategorie - die "Eltern"-Kategorie - aus und die Seite wird als Unterseite geführt.
 
