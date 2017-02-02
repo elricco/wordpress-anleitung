@@ -14,6 +14,7 @@ Ein kurzer Abriss wie man mit Wordpress umgeht.
   * Quick Edit
 
 * Beiträge
+
 * Ansicht einstellen
 * Medien
   * Dateihandhabung
