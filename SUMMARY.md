@@ -1,8 +1,8 @@
 # Summary
 
 * [Einleitung](README.md)
-* [Seiten](chapter1.md)
-  * Seitenstruktur anlegen
+* [Seiten](seiten.md)
+  * [Seitenstruktur anlegen](seiten/seitenstruktur-anlegen.md)
 * Beiträge
 * Ansicht einstellen
 * Medien
