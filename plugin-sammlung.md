@@ -16,3 +16,5 @@
 
 [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
 
+[Popup Maker](https://wordpress.org/plugins/popup-maker/)
+
