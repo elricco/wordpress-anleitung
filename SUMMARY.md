@@ -1,11 +1,11 @@
-# Inhaltsverzeichnis
+# Summary
 
 * [Einleitung](README.md)
 * [Seiten](seiten.md)
   * [Seitenstruktur anlegen](seiten/seitenstruktur-anlegen.md)
 * Beiträge
-* Ansicht einstellen
-* Medien
+* [Ansicht einstellen](ansicht-einstellen.md)
+* [Medien](medien.md)
 * Slider Revolution
 * Formulare
 * Einstellungen
@@ -15,6 +15,4 @@
 * Divi
   * Divi Builder
 * [Plugin-Sammlung](plugin-sammlung.md)
-
-
 
