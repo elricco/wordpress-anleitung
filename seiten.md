@@ -18,5 +18,7 @@ Am einfachsten und schnellsten lässt es sich in der Seitenübersicht sortieren,
 
 Diese Einstellungen lassen sich auch immer **IN** der Seite selbst auf der rechten Seite unter "Attribute" einstellen.
 
+Mehr dazu unter [Seitenstruktur anlegen](seiten/seitenstruktur-anlegen.md)
+
 
 
