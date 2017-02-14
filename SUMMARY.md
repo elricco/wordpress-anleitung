@@ -10,7 +10,7 @@
 * Formulare
 * Einstellungen
 * [Avada](avada.md)
-  * Theme Optionen
+  * [Theme Optionen](avada/theme-optionen.md)
   * Fusion Builder
 * Divi
   * Divi Builder
